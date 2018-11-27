@@ -8,7 +8,7 @@ Arcade Game - JS, Canvas
 ## Game feature:
  * you must go over the road till the water till next level
  * customize character avatar and name
- * character controllable with arrows (up, down, left, right)
+ * character controllable with keyboard arrows or with touch
  * difficulty and level reward increased with level
  * random bonus misc (chance increase by level)
  * scoreboard with highscores
@@ -17,3 +17,4 @@ Arcade Game - JS, Canvas
  * used ES6+ & OOP style
  * HTML5 Canvas
  * Optimized animation with **requestAnimationFrame**
+ * Touch support (direction calculation from touch start/end coords)
