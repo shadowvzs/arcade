@@ -4,6 +4,7 @@ Arcade Game - JS, Canvas
 # Arcade Game
 
 * Live: https://shadowvzs.github.io/arcade/
+* Video: https://www.youtube.com/watch?v=Z0ogaEMZv-M
 
 ## Game feature:
  * you must go over the road till the water till next level
